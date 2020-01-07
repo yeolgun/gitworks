@@ -1,4 +1,4 @@
-function topla(x,y){
+function carpma(x,y){
 	return x+y;
 }
 
